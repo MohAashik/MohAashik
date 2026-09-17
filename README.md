@@ -8,9 +8,9 @@
   <a href="https://github.com/MohAashik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <br>
-Data professional with hands-on experience in data Analysis and reporting now focused on moving into an Analyst role. I turn messy, real-world data into clear, actionable insights that help businesses make better decisions — and I build end-to-end projects across SQL, Power BI, Python and Excel to strengthen my skills and demonstrate my ability to work with data effectively.
+Data professional with hands-on experience in data Analysis and reporting now focused on moving into an Analyst role. I turn messy, real-world data into clear, actionable insights that help businesses make better decisions and I build end-to-end projects across SQL, Power BI, Python and Excel to strengthen my skills and demonstrate my ability to work with data effectively.
 
-<p>
+<p align="center">
   <img align="center" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img align="center" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
