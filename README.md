@@ -21,19 +21,7 @@ Data professional with hands-on experience in data Analysis and reporting now fo
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-📊 Projects
-🛒 Olist E-Commerce SQL Analysis
-End-to-end SQL analytics on the Brazilian E-Commerce Public Dataset by Olist (~100,000 real orders) in Microsoft SQL Server — from raw, messy CSVs to insights a marketplace can act on.
-What I did
-Built a staging → clean star-schema ETL pipeline (dimension + fact tables).
-Cleaned real-world data: type conversion, de-duplication with `ROW_NUMBER()`, referential integrity, and Portuguese → English category translation.
-Answered core business questions plus advanced analytics — RFM segmentation, Pareto (80/20), cohorts, and delivery SLA — using CTEs and window functions.
-Key findings
-~R$13.2M revenue across ~96k delivered orders (AOV ≈ R$137).
-Only ~3% of customers ever reorder — retention is the biggest growth lever.
-Top 20% of sellers drive ~82% of revenue (a textbook 80/20).
-São Paulo ≈ 38% of revenue — heavy geographic concentration.
-Tech: SQL Server (T-SQL) · SSMS · Star schema · CTEs · Window functions
+
 🔗 View the project →
 <br>
 <p align="center">
